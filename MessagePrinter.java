@@ -1,7 +1,9 @@
 public class MessagePrinter {
     
+ feature/update-welcome
     public static String getWelcomeMessage() {
 		return "Hello! Welcome to Git and GitHub Tutorial!";
+main
 	}
     
     public static String getDateMessage() {
